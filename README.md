@@ -5,7 +5,6 @@ Cursor Color Changer is a Google Chrome extension that enhances the user experie
 ## Features
 - Automatically changes the color of the cursor to match the background.
 - Works across different websites and web applications.
-- Customizable options to adjust color sensitivity and behavior.
 - Lightweight and unobtrusive.
 
 
