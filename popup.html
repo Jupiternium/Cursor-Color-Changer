@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Add some CSS rules to style your popup */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 10px;
+      background-color: #F0F0F0;
+    }
+
+    h1 {
+      color: #4CAF50;
+      text-align: center;
+    }
+
+    p {
+      color: #333333;
+      text-align: justify;
+    }
+
+    button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #3E8E41;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <!-- Add some HTML elements to your popup -->
+  <h1>Hover Cursor Color</h1>
+  <img src="icon.png" alt="Extension icon">
+  <p>This extension changes the mouse cursor color to match the hovered element. It works on any website and any element. You can open the extension in a new tab or window for a better experience.</p>
+  <button id="new-tab">Open in new tab</button>
+  <button id="new-window">Open in new window</button>
+  <p>For more information and feedback, please visit the <a href="https://github.com/Jupiternium/Cursor Color Changer">GitHub repository</a> of this extension.</p>
+  <!-- Add a script tag to handle the button clicks -->
+  <script src="popup.js"></script>
+</body>
+</html>
