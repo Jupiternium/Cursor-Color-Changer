@@ -1,7 +1,5 @@
 # Cursor Color Changer Chrome Extension
 
-![Colorful Cursor Logo](/images/logo.png)
-
 Cursor Color Changer is a Google Chrome extension that enhances the user experience by changing the color of the cursor to match the background of whatever it hovers over. It adds a touch of personalization and aesthetic appeal to browsing.
 
 ## Features
@@ -10,9 +8,6 @@ Cursor Color Changer is a Google Chrome extension that enhances the user experie
 - Customizable options to adjust color sensitivity and behavior.
 - Lightweight and unobtrusive.
 
-## Screenshots
-![Screenshot 1](/images/screenshot1.png)
-![Screenshot 2](/images/screenshot2.png)
 
 ## Installation
 To install Cursor Color Changer, follow these steps:
@@ -48,4 +43,4 @@ Colorful Cursor is released under the [MIT License](/LICENSE).
 
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [johnathand292016@gmail.com](mailto:email@example.com). We would love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to me at [johnathand292016@gmail.com](mailto:email@example.com). 
