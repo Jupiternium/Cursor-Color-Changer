@@ -28,7 +28,7 @@ Once the extension is installed, it will start working automatically. Whenever y
 New features will be added, so stay tuned!
 
 ## Contribution
-Contributions to Colorful Cursor are welcome! If you find any bugs, have suggestions, or want to add new features, please follow these steps:
+Contributions to Cursor Color Changer are welcome! If you find any bugs, have suggestions, or want to add new features, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure they are properly tested.
@@ -39,7 +39,7 @@ Contributions to Colorful Cursor are welcome! If you find any bugs, have suggest
 Please be respectful and considerate to maintain a positive and inclusive community.
 
 ## License
-Colorful Cursor is released under the [MIT License](/LICENSE).
+Cursor Color Changer is released under the [MIT License](/LICENSE).
 
 
 ## Contact
