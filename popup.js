@@ -11,5 +11,5 @@ newTabButton.addEventListener("click", function() {
 
 // Add a click event listener to the new window button
 newWindowButton.addEventListener("click", function() {
-  window.open("https://google.com", "New Window");
+  window.open("https://google.com", "_blank", "width=800,height=600");
 });
